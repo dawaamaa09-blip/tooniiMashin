@@ -111,6 +111,7 @@
             button1.TabIndex = 2;
             button1.Text = "M+";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // button2
             // 
@@ -121,6 +122,7 @@
             button2.TabIndex = 3;
             button2.Text = "MR";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // button3
             // 
@@ -131,6 +133,7 @@
             button3.TabIndex = 4;
             button3.Text = "MS";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // button4
             // 
@@ -141,6 +144,7 @@
             button4.TabIndex = 5;
             button4.Text = "MC";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
             // 
             // button7
             // 
@@ -162,6 +166,7 @@
             button15.TabIndex = 23;
             button15.Text = ".";
             button15.UseVisualStyleBackColor = true;
+            button15.Click += button15_Click;
             // 
             // button16
             // 
@@ -172,6 +177,7 @@
             button16.TabIndex = 24;
             button16.Text = "+/-";
             button16.UseVisualStyleBackColor = true;
+            button16.Click += button16_Click;
             // 
             // button17
             // 
@@ -182,6 +188,7 @@
             button17.TabIndex = 25;
             button17.Text = "1/x";
             button17.UseVisualStyleBackColor = true;
+            button17.Click += button17_Click;
             // 
             // button18
             // 
@@ -192,6 +199,7 @@
             button18.TabIndex = 26;
             button18.Text = "%";
             button18.UseVisualStyleBackColor = true;
+            button18.Click += button18_Click;
             // 
             // button19
             // 
@@ -202,6 +210,7 @@
             button19.TabIndex = 27;
             button19.Text = "sqrt";
             button19.UseVisualStyleBackColor = true;
+            button19.Click += button19_Click;
             // 
             // button20
             // 
@@ -212,6 +221,7 @@
             button20.TabIndex = 28;
             button20.Text = "-";
             button20.UseVisualStyleBackColor = true;
+            button20.Click += button20_Click;
             // 
             // button21
             // 
@@ -222,6 +232,7 @@
             button21.TabIndex = 29;
             button21.Text = "*";
             button21.UseVisualStyleBackColor = true;
+            button21.Click += button21_Click;
             // 
             // button22
             // 
@@ -232,6 +243,7 @@
             button22.TabIndex = 30;
             button22.Text = "/";
             button22.UseVisualStyleBackColor = true;
+            button22.Click += button22_Click;
             // 
             // button23
             // 
@@ -242,6 +254,7 @@
             button23.TabIndex = 31;
             button23.Text = "=";
             button23.UseVisualStyleBackColor = true;
+            button23.Click += button23_Click;
             // 
             // button24
             // 
@@ -252,6 +265,7 @@
             button24.TabIndex = 32;
             button24.Text = "+";
             button24.UseVisualStyleBackColor = true;
+            button24.Click += button24_Click;
             // 
             // button25
             // 
@@ -262,6 +276,7 @@
             button25.TabIndex = 33;
             button25.Text = "CE";
             button25.UseVisualStyleBackColor = true;
+            button25.Click += button25_Click;
             // 
             // button26
             // 
@@ -272,6 +287,7 @@
             button26.TabIndex = 34;
             button26.Text = "Backspace";
             button26.UseVisualStyleBackColor = true;
+            button26.Click += button26_Click;
             // 
             // button27
             // 
@@ -282,6 +298,7 @@
             button27.TabIndex = 35;
             button27.Text = "C";
             button27.UseVisualStyleBackColor = true;
+            button27.Click += button27_Click;
             // 
             // button5
             // 
